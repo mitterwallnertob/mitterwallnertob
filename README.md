@@ -237,7 +237,7 @@
     <li><b>OS:</b> Windows 11 / Ubuntu 22.04</li>
     <li><b>Laptop: </b> Razer Blade 15 (Late 2020)</li>
     <li><b>Browser: </b> Firefox Web Browser</li>
-    <li><b>Code Editor:</b> Neovim & VSCode & Jetbrains Suite</li>
+    <li><b>Code Editor:</b> Neovim, VSCode & Jetbrains Suite</li>
     <li><b>To Stay Updated:</b> GitHub</li>
     <br />
   </ul>
