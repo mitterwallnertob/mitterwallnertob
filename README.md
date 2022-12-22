@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, my name is Tobi 🎯️🚀️</h1>
 <h3 align="center">
   I'm a student trying to put his learned programming skills into practice in
-  the real world. This Github page documents my progress. 💻
+  the real world. This Github page documents my progress. 
 </h3>
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif"/>
@@ -243,3 +243,4 @@
   </ul>
 </details>
 
+![snake gif](https://github.com/mitterwallnertob/mitterwallnertob/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
