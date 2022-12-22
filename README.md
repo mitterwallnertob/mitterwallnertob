@@ -209,10 +209,10 @@
         src="https://github-readme-stats.vercel.app/api?username=mitterwallnertob&show_icons=true&theme=radical&count_private=true"
       />
     </a>
-    <a href="https://github.com/mitterwallnertob/github-readme-stats">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs?username=mitterwallnertob&show_icons=true&locale=en&layout=compact">
       <img
         align="center"
-        src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mitterwallnertob&layout=compact&theme=radical&langs_count=6"
+        src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mitterwallnertob&layout=compact&theme=radical"
       />
     </a>
   </p>
