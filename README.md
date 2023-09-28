@@ -243,4 +243,4 @@
   </ul>
 </details>
 
-![snake gif](https://github.com/mitterwallnertob/mitterwallnertob/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![snake gif](https://github.com/mitterwallnertob/mitterwallnertob/blob/output/github-contribution-grid-snake.gif)
