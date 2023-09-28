@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, my name is Tobi 🎯️🚀️</h1>
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There+👋;My+name+is+Tobi!)](https://git.io/typing-svg)</h1>
 <h3 align="center">
   I'm a student trying to put his learned programming skills into practice in
   the real world. This Github page documents my progress. 
@@ -244,5 +244,3 @@
 </details>
 
 ![snake gif](https://github.com/mitterwallnertob/mitterwallnertob/blob/output/github-contribution-grid-snake.gif)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There!+👋;I+am+Tobi!)](https://git.io/typing-svg)
