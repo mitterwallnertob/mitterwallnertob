@@ -248,4 +248,4 @@
   </ul>
 </details>
 
-![snake gif](https://github.com/mitterwallnertob/mitterwallnertob/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/mitterwallnertob/mitterwallnertob/blob/output/github-contribution-grid-snake.svg)
