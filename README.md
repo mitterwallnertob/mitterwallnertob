@@ -11,6 +11,10 @@
 
 <hr>
 
+<div id="stats" align="center">
+	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mitterwallnertob&theme=highcontrast&border_radius=5&card_width=1000&fire=EB5454"></a>
+</div>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=mitterwallnertob&theme=highcontrast&border_radius=5&card_width=1000&fire=EB5454)](https://git.io/streak-stats)
 
 <hr>
