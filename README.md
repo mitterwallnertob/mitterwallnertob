@@ -1,5 +1,9 @@
+###
 <div align="center">
-    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There!+👋;My+name+is+Tobi!)](https://git.io/typing-svg)
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+    <a href="https://github.com/DenverCoder1/readme-typing-svg">
+      <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20There!%20👋;My%20Name%20Is%20Tobi!;&font=Fira%20Code&center=true&width=440&height=45&color=891204&vCenter=true&pause=500&size=22">
+    </a>
 </div>
 
 <h3 align="center">
