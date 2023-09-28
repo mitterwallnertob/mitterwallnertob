@@ -244,3 +244,9 @@
 </details>
 
 ![snake gif](https://github.com/mitterwallnertob/mitterwallnertob/blob/output/github-contribution-grid-snake.gif)
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I+am+Tobi!;&center=true&size=30">
+  </a>
+</h1>
