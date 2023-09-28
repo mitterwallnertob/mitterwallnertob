@@ -1,7 +1,6 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There!+👋;My+name+is+Tobi!)](https://git.io/typing-svg)  </a>
-</h1>
+<div align="center">
+    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There!+👋;My+name+is+Tobi!)](https://git.io/typing-svg)
+</div>
 
 <h3 align="center">
   I'm a student trying to put his learned programming skills into practice in
