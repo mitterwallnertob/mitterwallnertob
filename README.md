@@ -174,33 +174,6 @@
   </a>
 </p>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"/> **Reach out to me:**
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tobias-mitterwallner-113690259" target="_blank"><img
-      align="center"
-      src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"
-      alt="mitterwallnertob"
-  /></a>
-  <a href="https://github.com/mitterwallnertob" target="_blank"
-    ><img
-      align="center"
-      src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white"
-      alt="mitterwallnertob"
-  /></a>
-  <a href="mailto:tobias_mitterwallner@gmx.at" target="_blank"
-    ><img
-      align="center"
-      src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
-      alt="mitterwallnertob"
-  /></a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mitterwallnertob&label=Profile%20views&color=26a269&style=flat-square"
-    alt="mitterwallnertob"
-  />
-</p>
-
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"/> **Github Stats:**
 
 <details>
