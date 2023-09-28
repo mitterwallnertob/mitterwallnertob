@@ -11,6 +11,12 @@
   the real world. This Github page documents my progress. 
 </h3>
 
+<hr>
+
+<div id="stats" align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats-ig7f3dobo-mitterwallnertob.vercel.app/?user=mitterwallnertob&theme=highcontrast&border_radius=5&card_width=1000&fire=EB5454"></a>
+</div>
+
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif"/>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"/>**About Me:**
