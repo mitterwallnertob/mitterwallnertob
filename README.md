@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There+👋;My+name+is+Tobi!)](https://git.io/typing-svg)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+My+name+is+Tobi!;&center=true&size=30">
+  </a>
+</h1>
+
 <h3 align="center">
   I'm a student trying to put his learned programming skills into practice in
   the real world. This Github page documents my progress. 
