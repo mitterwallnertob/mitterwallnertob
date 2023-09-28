@@ -1,6 +1,6 @@
 <div id="header">
-  <a href=""><img align="left" src="https://ucarecdn.com/ce47e582-1922-486f-83a4-f4080f2285b7/-/preview/500x500/-/quality/smart_retina/-/format/auto/"></a>
- <a href=""><img align="right" src="https://ucarecdn.com/083848b1-0c26-44dc-bc47-3271f0816f4f/-/preview/500x500/-/quality/smart_retina/-/format/auto/""></a>
+  <a href=""><img align="left" src="https://ucarecdn.com/ce47e582-1922-486f-83a4-f4080f2285b7/-/preview/500x500/-/quality/smart_retina/-/format/auto/" width="200px" height="200px"></a>
+ <a href=""><img align="right" src="https://ucarecdn.com/083848b1-0c26-44dc-bc47-3271f0816f4f/-/preview/500x500/-/quality/smart_retina/-/format/auto/" width="200px" height="200px"></a>
     <div align="center">
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
